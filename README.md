@@ -1,4 +1,4 @@
-Chess Game using Chess.js and Socket.io
+Chess Game using EJS , Chess.js and Socket.io
 
 This repository contains a multiplayer chess game built using Chess.js and Socket.io. It provides real-time chess gameplay between two players.
 
